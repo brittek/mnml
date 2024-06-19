@@ -62,7 +62,7 @@ Ensuring seamless project execution, Michael manages our projects with precision
 
 For more information about our services or to discuss your project, please get in touch:
 
-\- **Email:** \[info\@brittek.digital]\(mailto\:info\@brittek.digital)
+\- **Email:** \[<info@brittek.digital>]\(mailto:<info@brittek.digital>)
 
 \- **Phone:** +61 2 1234 5678
 
@@ -76,13 +76,13 @@ For more information about our services or to discuss your project, please get i
 
 Stay connected with us on social media:
 
-\- **Twitter:** \[@brittek]\(https\://twitter.com/brittek)
+\- **Twitter:** \[@brittek]\(<https://twitter.com/brittek>)
 
-\- **Instagram:** \[@brittekdgtl]\(https\://instagram.com/brittekdgtl)
+\- **Instagram:** \[@brittekdgtl]\(<https://instagram.com/brittekdgtl>)
 
-\- **LinkedIn:** \[Brittek Digital]\(https\://linkedin.com/company/brittek-digital)
+\- **LinkedIn:** \[Brittek Digital]\(<https://linkedin.com/company/brittek-digital>)
 
-\- **GitHub:** \[Brittek Digital]\(https\://github.com/brittek)
+\- **GitHub:** \[Brittek Digital]\(<https://github.com/brittek>)
 
 \---
 
